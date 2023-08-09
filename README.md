@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @isurueshan
 - 👀 I’m interested in coding...
-- 🌱 I’m currently learning Data Science...
+- 🌱 I’m currently researching Machine learning algorithms.
 - 📫 How to reach me https://www.linkedin.com/in/isuru-eshan/
 
 <!---
